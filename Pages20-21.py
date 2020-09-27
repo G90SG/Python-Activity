@@ -13,6 +13,3 @@ product_price = float(input("What is the product price?"))
 product_quantity = int(input("How many products are there?"))
 total_price = product_quantity * product_price 
 # print("Total Price: " + total_price)  what have i missed here?#
-
-
-
