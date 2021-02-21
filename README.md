@@ -1,4 +1,7 @@
 # Python-Activity
 
 Various Python acitivites including:
-- mathematical operators
+- Mathematical Operators
+- Number Guessing Game
+- Weather Game
+-  
