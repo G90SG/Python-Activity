@@ -1,4 +1,4 @@
-# Create a program to ask the user the weather and advise them what clothing to take.
+# Create a program to ask the user the weather and advise them what clothing to take
 
 #Assign weather variables 
 raining = "a"
@@ -9,7 +9,7 @@ sunny = "d"
 print ("What is the weather like today?")
 weather = input("Is it (a) Raining  (b) Cold  (c) Fine (d) Sunny? ")
 
-# Create a variable for weather and assign the string "raining" 
+# Create an If statement to print a different sentence depending on the input received from the user 
 if (weather == raining):
   print ("Don't forget an umbrella!")
 elif (weather == cold):
