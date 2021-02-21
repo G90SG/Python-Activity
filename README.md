@@ -3,5 +3,5 @@
 Various Python acitivites including:
 - Mathematical Operators
 - Number Guessing Game
-- Weather Game
--  
+- Weather Program
+- Favourite City 
